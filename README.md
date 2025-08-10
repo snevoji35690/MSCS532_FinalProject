@@ -34,11 +34,17 @@ k  = 0.7        # spring constant
 
 Expected Output
 Example run:
+
 AoS step: 0.210 s
+
 SoA step: 0.085 s
+
 Speedup: 2.47×
+
 Actual times vary depending on your CPU, number of threads, and Numba version.
 
 Project Structure
+
 aos_soa_benchmark.py   # Benchmark source code
+
 README.md              # This file
